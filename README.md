@@ -1,4 +1,4 @@
-# 🍴🥣 Recipe Book App 
+# 🍴🥣 Recipe Book App 🍕😋
 
 Recipe Book App is a React Native application that allows users to search for recipes, save their favorite recipes, filter recipes by category, and write new recipes. 
 
