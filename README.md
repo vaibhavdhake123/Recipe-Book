@@ -1,4 +1,4 @@
-# Recipe Book App
+# 🍴🥣 Recipe Book App 
 
 Recipe Book App is a React Native application that allows users to search for recipes, save their favorite recipes, filter recipes by category, and write new recipes. 
 
@@ -20,5 +20,15 @@ Recipe Book App is a React Native application that allows users to search for re
 2. **Save Favorite Recipes**: Tap the heart icon on a recipe to save it to your favorites.
 3. **Filter by Category**: Navigate to the Categories tab and select a category to filter recipes.
 4. **Add a New Recipe**: Go to the Add Recipe tab and fill in the details to add your own recipe.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Thanks to the contributors and the open-source community.
+- Inspired by educational needs for children students.
+
+## Contact
+- For any questions or feedback, feel free to open an issue or contact the project maintainer.
 
 
